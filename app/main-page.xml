@@ -1,0 +1,5 @@
+<Page>
+    <StackLayout>
+        <Button text="Open Email" tap="openEmail" />
+    </StackLayout>
+</Page>
